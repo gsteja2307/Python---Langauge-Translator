@@ -1,0 +1,1 @@
+this is a Sample text , run the code and see output in test-ja.txt
